@@ -29,12 +29,12 @@ The User Management System API is built with Laravel and provides endpoints for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/abiodunmale/User-Management-System-API-Apex-.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd your-repo
+   cd User-Management-System-API-Apex-
    composer install
    ```
 
